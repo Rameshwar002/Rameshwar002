@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ramwshwar,  
+## Hi 👋, I'm Rameshwar,  
 ### A Data Engineering Enthusiast from India
 
 ---

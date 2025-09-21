@@ -1,6 +1,4 @@
 ## Hi 👋, I'm Rameshwar,  
-### A Data Engineering Enthusiast from India
-
 ---
 - 💼 I'm currently working at **Tata Consultancy Services (TCS)**
 - 📘 Currently learning and working with **Snowflake**, **Power BI**, **PySpark**, and **SQL**

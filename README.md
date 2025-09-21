@@ -1,9 +1,8 @@
 ## Hi 👋, I'm Rameshwar,  
 ---
 - 💼 I'm currently working at **Tata Consultancy Services (TCS)**
-- 📘 Currently learning and working with **Snowflake**, **Power BI**, **PySpark**, and **SQL**
-- 🛠️ Hands-on experience with **PostgreSQL**, **python**, **Java**, and **Git**
-- 🤝 I'm open to opportunities in **Data Engineering**.
+- 📘 Currently learning and working with **PySpark**, and **SQL**
+- 🛠️ Hands-on experience with **PostgreSQL**, **python**,**LLM's** **Java**, and **Git**
 ---
 
 ### Connect with me:

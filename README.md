@@ -2,7 +2,7 @@
 ---
 - 💼 I'm currently working at **Tata Consultancy Services (TCS)**
 - 📘 Currently learning and working with **PySpark**, and **SQL**
-- 🛠️ Hands-on experience with **PostgreSQL**, **python**,**LLM's** **Java**, and **Git**
+- 🛠️ Hands-on experience with **PostgreSQL**, **python**,**LLM's**, **Java**, and **Git**
 ---
 
 ### Connect with me:
